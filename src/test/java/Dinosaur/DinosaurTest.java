@@ -5,8 +5,9 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class DinosaurTest {
-    Dinosaur tommy = new Dinosaur("T. Rex","Tommy","Carnivore",5,2500);
-
+    DinosaurKey tommy = new DinosaurKey("T. Rex","Tommy","Carnivore",5,2500);
+    //uncomment line below when ready
+    //Dinosaur tommy = new Dinosaur("T. Rex","Tommy","Carnivore",5,2500);
     @Test
     void getSpecies() {
         assertEquals("T. Rex",tommy.getSpecies());
