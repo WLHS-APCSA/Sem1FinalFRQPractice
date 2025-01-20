@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Dinosaur.DinosaurKey</OriginalElement>
+  <nodes>
+    <node x="-185.83333333333331" y="-127.5">Dinosaur.DinosaurKey</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="1.5" y="23.0" />
+  <SelectedNodes>
+    <node>Dinosaur.DinosaurKey</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

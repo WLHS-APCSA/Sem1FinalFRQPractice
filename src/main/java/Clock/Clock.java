@@ -11,6 +11,8 @@ public class Clock {
 
     @Override
     public String toString(){
-        return String.format("The time is %d:%02d",hours,minutes);
+        return null;
+        //uncomment these lines when ready
+        //return String.format("The time is %d:%02d",hours,minutes);
     }
 }
